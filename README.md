@@ -1,16 +1,43 @@
-## Hi there 👋
+# Aryan Srivastava
 
-<!--
-**aryansrivastava3004/aryansrivastava3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate | AI & Web Development**
 
-Here are some ideas to get you started:
+I am a Computer Science student focused on building web applications and gradually integrating AI into real-world use cases. I aim to develop practical solutions while continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Currently working on strengthening fundamentals and moving towards building real-world projects that solve meaningful problems.
+
+---
+
+## What I’m Focused On
+
+* Strengthening Python and problem-solving
+* Learning backend development (Flask)
+* Understanding APIs and real-world application flow
+* Preparing for hackathons and project-based learning
+
+---
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS
+**Tools:** Git, GitHub, VS Code
+**Currently Learning:** Backend development, APIs, AI integration
+
+---
+
+## Contact
+
+Email: [aryansrivastava3004@gmail.com](mailto:aryansrivastava3004@gmail.com)
+Location: Bhopal, India
+LinkedIn: https://www.linkedin.com/in/aryan-srivastava-8610b8380/
+
+---
+
+## Current Goal
+
+To build strong, real-world projects that demonstrate practical skills and problem-solving ability.
+
